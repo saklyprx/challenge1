@@ -1,0 +1,127 @@
+body {
+  margin-top: 100px;
+  margin-left: 100px;
+  font-family: sans-serif;
+  height: 100%;
+  width: 100%;
+  
+
+
+}
+
+h1 {
+  color: hsl(300, 43%, 22%);
+  font-weight: bolder;
+  font-size: 45px;
+  line-height: 1;
+  font-family: 'Spartan', sans-serif;
+}
+h5{
+  font-family: sans-serif;
+  color: white ;
+}
+
+p {
+  color: hsl(303, 10%, 53%);
+}
+
+img {
+  border-radius: 50%;
+  float: left;
+  margin-right: 30px;
+
+}
+
+
+.intro {
+  width: 33%;
+
+}
+
+.stars {
+  position: absolute;
+  right: 12rem;
+  top: 0.5rem;
+  margin-top: 100px;
+}
+
+.star1 {
+  border-style: none;
+  background-color: hsl(300, 24%, 96%);
+  padding: 10px;
+  width: 400px;
+  color: hsl(300, 43%, 22%);
+    font-weight: bold;
+
+
+}
+
+.star2 {
+  background-color: hsl(300, 24%, 96%);
+  padding: 10px;
+  position: relative;
+  left: 40px;
+  color: hsl(300, 43%, 22%);
+    font-weight: bold;
+
+}
+
+.star3 {
+  background-color: hsl(300, 24%, 96%);
+  padding: 10px;
+  position: relative;
+  left: 80px;
+  color: hsl(300, 43%, 22%);
+    font-weight: bold;
+
+
+}
+
+.reviews {
+  margin-top: 100px;
+  height: 500px;
+}
+
+.review1 {
+  width: 20rem;
+  height: 11rem;
+  background-color: hsl(300, 43%, 22%);
+  border-radius: 5%;
+  padding: 2rem;
+}
+
+.review2 {
+  width: 20rem;
+  height: 11rem;
+  background-color: hsl(300, 43%, 22%);
+  border-radius: 5%;
+  padding: 2rem;
+  position: relative;
+  left: 400px;
+  bottom: 208px;
+  margin-left: 25px;
+}
+
+.review3 {
+  width: 20rem;
+  height: 11rem;
+  margin-left: 50px;
+  background-color: hsl(300, 43%, 22%);
+  border-radius: 5%;
+  padding: 2rem;
+  position: relative;
+  left: 800px;
+  bottom: 416px
+}
+
+.subtitle {
+  color: hsl(333, 80%, 67%);
+  font-weight: normal;
+}
+.comments{
+  color: white;
+  font-family: sans-serif;
+  font-size: 0.83rem;
+  margin-top: 50px;
+
+}
